@@ -1,5 +1,5 @@
-import React, { useState, useMemo } from 'react';
-import { Search, User, Package, Calendar, DollarSign, ExternalLink, X, ChevronDown, ChevronUp, Building2, Mail, Phone, TrendingUp, Users, Filter, BarChart3, ArrowUpDown, Star } from 'lucide-react';
+import { useState, useMemo } from 'react';
+import { Search, Package, ExternalLink, X, ChevronDown, ChevronUp, Mail, Phone, Users, Filter, BarChart3, ArrowUpDown, Star } from 'lucide-react';
 
 interface Company {
   id: number;
